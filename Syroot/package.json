@@ -1,8 +1,11 @@
 {
-  "name": "com.unity.syroot",
-  "displayName": "Syroot",
-  "version": "1.0.3",
-  "unity": "2023.3",
-  "description": "",
-  "author": "Syroot"
+    "name": "com.unity.syroot",
+    "version": "1.0.4",
+    "displayName": "Syroot",
+    "unity": "2023.3",
+    "author": "Syroot",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wakui8/Syroot.git"
+    }
 }
